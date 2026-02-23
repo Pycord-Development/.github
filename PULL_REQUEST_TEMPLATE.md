@@ -2,6 +2,10 @@
 
 <!-- What is this pull request for? Does it fix any issues? -->
 
+<!-- If Generative AI (consisting of but not limited to LLMs and Agentic AI systems) 
+has been used to partially or entirely produce this pull request (documentation included), 
+disclose it here -->
+
 ## Information
 
 <!-- Put an x inside [ ] to check it, like so: [x] -->
@@ -21,3 +25,4 @@
   - [ ] I have updated the documentation to reflect the changes.
 - [ ] If `type: ignore` comments were used, a comment is also left explaining why.
 - [ ] I have updated the changelog to include these changes.
+- [ ] AI Usage has been disclosed as explained above.
