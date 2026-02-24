@@ -25,4 +25,6 @@ disclose it here -->
   - [ ] I have updated the documentation to reflect the changes.
 - [ ] If `type: ignore` comments were used, a comment is also left explaining why.
 - [ ] I have updated the changelog to include these changes.
-- [ ] AI Usage has been disclosed as explained above.
+- [ ] AI Usage has been disclosed.
+  - [ ] If AI has been used, I understand fully what the code does
+
