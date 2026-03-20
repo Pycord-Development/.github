@@ -1,5 +1,5 @@
 > [!CAUTION]
-> Code freeze is active
+> Feature freeze is active, as described by our [Release Schedule](https://github.com/Pycord-Development/pycord/blob/master/RELEASE_SCHEDULE.md).
 
 ## Summary
 
