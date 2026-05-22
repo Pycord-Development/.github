@@ -1,6 +1,3 @@
-> [!CAUTION]
-> Feature freeze is active, as described by our [Release Schedule](https://github.com/Pycord-Development/pycord/blob/master/RELEASE_SCHEDULE.md).
-
 ## Summary
 
 <!-- What is this pull request for? Does it fix any issues? -->
